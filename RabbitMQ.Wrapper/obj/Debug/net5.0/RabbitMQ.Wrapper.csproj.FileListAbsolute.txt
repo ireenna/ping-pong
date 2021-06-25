@@ -1,0 +1,12 @@
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\bin\Debug\net5.0\RabbitMQ.Wrapper.deps.json
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\bin\Debug\net5.0\RabbitMQ.Wrapper.dll
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\bin\Debug\net5.0\ref\RabbitMQ.Wrapper.dll
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\bin\Debug\net5.0\RabbitMQ.Wrapper.pdb
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\obj\Debug\net5.0\RabbitMQ.Wrapper.csproj.AssemblyReference.cache
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\obj\Debug\net5.0\RabbitMQ.Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\obj\Debug\net5.0\RabbitMQ.Wrapper.AssemblyInfoInputs.cache
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\obj\Debug\net5.0\RabbitMQ.Wrapper.AssemblyInfo.cs
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\obj\Debug\net5.0\RabbitMQ.Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\obj\Debug\net5.0\RabbitMQ.Wrapper.dll
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\obj\Debug\net5.0\ref\RabbitMQ.Wrapper.dll
+C:\Users\Irina\source\repos\Pinger\RabbitMQ.Wrapper\obj\Debug\net5.0\RabbitMQ.Wrapper.pdb
